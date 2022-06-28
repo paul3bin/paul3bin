@@ -7,4 +7,4 @@ love building web-applications.
 
 - Graduate in Computer Science and Engineering.
 - Currently working as a Full Stack Engineer.
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/paulebin/), [Twitter](https://twitter.com/paul_ebin), [Website](https://paulebin.web.app), <a href='mailto:ebinpaul@outlook.com'>Email</a>
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/paulebin/), [Twitter](https://twitter.com/paul_ebin), [Website](https://paulebin.web.app), or via <a href='mailto:ebinpaul@outlook.com'>Email</a>
