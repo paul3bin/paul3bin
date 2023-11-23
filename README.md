@@ -1,10 +1,10 @@
-### Hi,
-
-I'm Ebin Paul, I love building Web-Applications.
+### Hi there, I'm Ebin Paul! 👋
 
 ### About Me,
 
-- Currently pursuing an MSc. in Advanced Computing Science.
-- Graduate in Computer Science and Engineering.
-- Previously worked as a Full Stack Engineer.
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/paulebin/), [Twitter](https://twitter.com/paul_ebin), [Website](https://paulebin.web.app), or via <a href='mailto:ebinpaul@outlook.com'>Email</a>
+- MSc. in Advanced Computing Science graduate 🎓
+- B.Tech in Computer Science and Engineering.
+- Full Stack Engineer with experience in Python, Flask, JavaScript, React, and PostgreSQL
+- Reach me on [LinkedIn](https://www.linkedin.com/in/paulebin/), [Twitter](https://twitter.com/paul_ebin), [Website](https://paulebin.web.app), or via <a href='mailto:ebinpaul@outlook.com'>Email</a>
+
+Let's connect!
